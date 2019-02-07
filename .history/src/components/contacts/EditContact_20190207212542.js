@@ -106,7 +106,7 @@ class EditContact extends Component {
                                 label="Phone"
                                 name="phone"
                                 className="form-control form-control-lg"
-                                type="number"
+                                type= 'number'
                                 placeholder="Enter a phone"
                                 value={phone}
                                 onChange={this.onChange}
