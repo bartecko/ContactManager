@@ -43,8 +43,6 @@ export class Provider extends Component {
             contacts: res.data,
             areContactsEmpty: false
         }))
-        //.then(res => console.log(this.state));
-        
     }
 
 
